@@ -1,0 +1,18 @@
+body {
+    background-color: #F2F2F2;
+}
+.row {
+    margin-bottom: 15px;
+}
+.nav-link {
+    color: #273F49;
+    font-weight: 700;
+}
+a {
+    color: black;
+    cursor: crosshair;
+    text-decoration: none;
+}
+.btn {
+    background-color: #C9F0C9;
+}
